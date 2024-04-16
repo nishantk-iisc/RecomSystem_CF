@@ -150,7 +150,7 @@ A/B testing is a performance metric used to evaluate models in production. It in
 The Results/Output section showcases the query image and the recommended apparel as follows:
 
 **Query Image**
-![Query Image](Images/q.jpg)
+![Query Image](images/q.jpg)
 
 **Recommended Apparel**
 1. ![Image 1](Images/1.jpg)
